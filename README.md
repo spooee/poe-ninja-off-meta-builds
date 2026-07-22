@@ -6,6 +6,12 @@ I've created this script to help me find some cool off-meta builds that are prob
 
 This does not send weird requests to the poe.ninja builds / profiles API, since that is specifically requested on their API documentation page, which you can find here: https://poe.ninja/docs/api. This script just changessome settings like ascendancy and minimum level on the website, and then scrolls through the "Main Skills" tab on the builds page to find some off-meta skills according to the settings you set in the script.
 
+## Short preview of the script
+
+https://github.com/user-attachments/assets/5b36e205-3e45-4c24-b18a-3d5b8b55b4e8
+
+
+
 ## Installation
 
 - Go to https://github.com/spooee/poe-ninja-off-meta-builds/raw/refs/heads/main/poe-ninja-off-meta-build.user.js
