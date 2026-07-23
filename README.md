@@ -4,7 +4,7 @@ I've created this script to help me find some cool off-meta builds that are prob
 
 **PLEASE NOTE** that this script also suffers from the same problem, but to a lesser extent in my opinion. It still might pick some stupid main skill that clearly isn't _actually_ a main skill (like an aura or a guard skill), but at least it'll actually show the characters that, for some reason, have those skills in a 5+ link setup. If I try to find a Necromancer that's using Earthquake of Amplification with Ancestral Bond allocated, all I'll ever find is a big fat "Found 0 characters".
 
-This does not send weird requests to the poe.ninja builds / profiles API, since that is specifically requested on their API documentation page, which you can find here: https://poe.ninja/docs/api. This script just changes some settings like ascendancy and minimum level on the website, and then scrolls through the "Main Skills" tab on the builds page to find some off-meta skills according to the settings you set in the script.
+This does not send weird requests to the poe.ninja builds / profiles API, since that is specifically requested on their API documentation page, which you can find here: https://poe.ninja/docs/api. This script just changes some settings like ascendancy and minimum level on the website, and then scrolls through the "Main Skills" tab on the builds page to find some off-meta skills according to the settings you set in the script. _This script also works with Phrecian ascendancies since it just reads the ascendancies from the poe.ninja website, the ascendancies are not hard-coded! So long as they don't add new base classes, we should be good._
 
 ## Short preview of the script
 
