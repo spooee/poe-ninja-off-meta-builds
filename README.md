@@ -1,6 +1,6 @@
 ## Violent/Grease/Tampermonkey script to find off-meta builds from https://poe.ninja/poe1/builds.
 
-I've created this script to help me find some cool off-meta builds that are probably homebrewed to hell. There are websites / apps that randomly select a skill (+ build and keystones if one wants to) to help you find a build that you might not have thought of, but I found them to be _too_ random, if that makes sense. Play a transfigured melee gem on a Necromancer, with Ancestral Bond allocated? No thanks man.
+I've created this script to help me find some cool off-meta builds that are probably homebrewed to hell. There are websites / apps that randomly select a skill (+ ascendancy and keystones if one wants to) to help you find a build that you might not have thought of, but I found them to be _too_ random, if that makes sense. Play a transfigured melee gem on a Necromancer, with Ancestral Bond allocated? No thanks man.
 
 **PLEASE NOTE** that this script also suffers from the same problem, but to a lesser extent in my opinion. It still might pick some stupid main skill that clearly isn't _actually_ a main skill (like an aura or a guard skill), but at least it'll actually show the characters that, for some reason, have those skills in a 5+ link setup. If I try to find a Necromancer that's using Earthquake of Amplification with Ancestral Bond allocated, all I'll ever find is a big fat "Found 0 characters".
 
